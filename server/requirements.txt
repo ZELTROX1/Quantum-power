@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+tensorflow
+yfinance
+numpy<2
+pennylane
+pandas==2.1.4
