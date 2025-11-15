@@ -22,14 +22,42 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Frontend caches
+.vite/
+.cache/
+.vercel/
+.trae/
+
+# Python
 __pycache__/
 server/__pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[codz]
+*$py.class
+
+# Environments
+.env
+.envrc
 .venv/
 server/.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Model artifacts
 *.keras
 *.npz
 *.npy
+
+# Misc
 bun.lockb
+.pdm-python
+.pdm-build/
+.pixi
+.ruff_cache/
+.pypirc
+.cursorignore
+.cursorindexingignore
+__marimo__/
