@@ -35,11 +35,6 @@ A full-stack market direction predictor with quantum-enhanced inference. The app
 
 ## Screenshots
 
-Images are stored under `docs/images/`:
-
-- `docs/images/Screenshot 2025-11-15 115908.png`
-- `docs/images/Screenshot 2025-11-15 115940.png`
-- `docs/images/Screenshot 2025-11-15 120059.png`
 
 ![Predict](docs/images/Screenshot%202025-11-15%20115908.png)
 
